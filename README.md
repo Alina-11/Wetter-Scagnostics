@@ -6,6 +6,8 @@
 
 Name of Quantlet: Wetter-Scagnostics
 
+Published in: Statistical Learning Class 2020
+
 Description: "Calculates the scagnostic measures for the dataset and plots the SPLOM, the scagnostics SPLOM and the heat-map of the scagnostic measures"
 
 Keywords: 'scagnostics, scagnostic coefficients, SPLOM, heat-map'
